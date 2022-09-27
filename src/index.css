@@ -1,0 +1,31 @@
+/* insert style sheet */
+div.head{
+  display: flex;
+  justify-content:space-between;
+  background-image: url(https://thumbs.dreamstime.com/z/banner-vectorial-con-galletas-de-pasteler%C3%ADa-y-otros-pasteles-as%C3%AD-como-accesorios-t%C3%A9-sobre-fondo-blanco-para-el-dise%C3%B1o-una-176523857.jpg);
+  width: 100%;
+  height: 50%;
+  padding: 3%;
+}
+
+body{
+  background-image: url(https://png.pngtree.com/background/20210715/original/pngtree-purple-texture-cake-food-geometric-background-picture-image_1292074.jpg);
+  background-size: 100vw 100vh;
+}
+
+.menu{
+  font-size: 150%;
+}
+
+h1.brand1{
+  color: rgb(164, 57, 57);
+  background-image: url(https://static.vecteezy.com/system/resources/previews/007/801/831/non_2x/poster-with-delicious-beautiful-cupcake-with-cream-banner-with-muffin-with-whipped-cream-flyer-for-bakeries-and-pastry-shops-illustration-vector.jpg);
+  background-size: 99%;
+  border-radius: 50%;
+  height: 500%;
+}
+
+.contact{
+  display: flex;
+  justify-content: center;
+}
